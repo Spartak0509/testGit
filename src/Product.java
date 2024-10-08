@@ -7,6 +7,6 @@ public class Product {
         this.calories = calories;
     }
      public void amountOfCal(String name,int calories){
-
+         System.out.println("Привет");
      }
 }
